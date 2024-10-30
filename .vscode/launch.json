@@ -1,0 +1,48 @@
+{
+    "configurations": [
+        {
+            "name": "Bigram -File",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Task: Build",
+            "program": "${workspaceFolder}/bigram-parsing/bin/Debug/net8.0/bigram-parsing.dll",
+            "args": [
+                "-file",
+                "${workspaceFolder}/bigram.txt"
+            ],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "Bigram -string",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Task: Build",
+            "program": "${workspaceFolder}/bigram-parsing/bin/Debug/net8.0/bigram-parsing.dll",
+            "args": [
+                "-string",
+                "The quick brown fox and the quick blue hare."
+            ],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        },
+        {
+            "name": "Bigram Both",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "Task: Build",
+            "program": "${workspaceFolder}/bigram-parsing/bin/Debug/net8.0/bigram-parsing.dll",
+            "args": [
+                "-string",
+                "The quick brown fox and the quick blue hare.",
+                "-file",
+                "${workspaceFolder}/bigram.txt"
+            ],
+            "cwd": "${workspaceFolder}",
+            "stopAtEntry": false,
+            "console": "internalConsole"
+        } 
+    ]
+}

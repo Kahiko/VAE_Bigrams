@@ -1,0 +1,14 @@
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\bin\Debug\net8.0\bigram-parsing.exe
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\bin\Debug\net8.0\bigram-parsing.deps.json
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\bin\Debug\net8.0\bigram-parsing.runtimeconfig.json
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\bin\Debug\net8.0\bigram-parsing.dll
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\bin\Debug\net8.0\bigram-parsing.pdb
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\bigram-parsing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\bigram-parsing.AssemblyInfoInputs.cache
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\bigram-parsing.AssemblyInfo.cs
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\bigram-parsing.csproj.CoreCompileInputs.cache
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\bigram-parsing.dll
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\refint\bigram-parsing.dll
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\bigram-parsing.pdb
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\bigram-parsing.genruntimeconfig.cache
+D:\Development\Tutorials\bigram-parsing\bigram-parsing\obj\Debug\net8.0\ref\bigram-parsing.dll
